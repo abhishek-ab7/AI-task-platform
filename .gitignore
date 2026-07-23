@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+worker/venv/
+worker/.pytest_cache/
+worker/__pycache__/
+backend/coverage/
+
+# Build outputs
+frontend/dist/
+*.log
+
+# Environment & IDE
+.agents/
+.env
+.DS_Store
+.vscode/
+.idea/
