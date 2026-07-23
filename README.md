@@ -4,6 +4,16 @@ A scalable, containerized, production-grade AI Task Processing Platform built us
 
 ---
 
+## 📸 Application & GitOps Dashboard Screenshots
+
+### 1. Argo CD GitOps Dashboard (Kubernetes Synchronization & Health)
+![Argo CD Dashboard Screenshot](./argocd_dashboard_screenshot.jpg)
+
+### 2. AI Task Processing Platform Dashboard UI (React SPA)
+![Application Dashboard UI Screenshot](./app_dashboard_screenshot.jpg)
+
+---
+
 ## 🌟 Key Features
 
 * 🔐 **User Authentication**: Secure user registration and login with bcrypt password hashing and JWT token authentication.
